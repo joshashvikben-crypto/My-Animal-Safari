@@ -1,0 +1,11 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> my animal safari</title>
+        <meta charset="utf-8">
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <style>
+            body  position: relative; }
+            .safari  sliderm {hgiht: 200xp; text-align: center; pagging top: 75xp font bsize 1.8rem color: while; }
+            .slide-forest
